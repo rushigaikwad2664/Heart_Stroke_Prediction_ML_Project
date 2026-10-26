@@ -10,19 +10,19 @@ The application uses a trained **K-Nearest Neighbors (KNN)** model to analyze th
 
 The home page introduces the application and allows users to enter their health-related information.
 
-![Heart Disease Prediction Home Page](C:/Users/91866/Pictures/Screenshots/Screenshot 2026-10-26 110059.png)
+![Heart Disease Prediction Home Page](home-page.png.png)
 
 ### 2. Enter Health Parameters
 
 Users can provide details such as age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting ECG, maximum heart rate, exercise-induced angina, oldpeak, and ST slope.
 
-![Health Parameters Input]("C:\Users\91866\Pictures\Screenshots\Screenshot 2026-10-26 110124.png")
+![Health Parameters Input](prediction-result.png.png)
 
 ### 3. Prediction Result
 
 After clicking the **Predict** button, the application processes the entered data and displays the model's prediction.
 
-![Heart Disease Prediction Result]("C:\Users\91866\Pictures\Screenshots\Screenshot 2026-10-26 110145.png")
+![Heart Disease Prediction Result](input-form.png.png)
 
 > **How to add your screenshots:** Create a folder named `screenshots` in your GitHub repository, upload your actual Streamlit UI screenshots, and use the same filenames shown above. Replace these example image paths if your filenames are different.
 
