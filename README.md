@@ -10,7 +10,7 @@ The application uses a trained **K-Nearest Neighbors (KNN)** model to analyze th
 
 The home page introduces the application and allows users to enter their health-related information.
 
-![Heart Disease Prediction Home Page]("C:\Users\91866\Pictures\Screenshots\Screenshot 2026-10-26 110059.png")
+![Heart Disease Prediction Home Page](C:/Users/91866/Pictures/Screenshots/Screenshot 2026-10-26 110059.png)
 
 ### 2. Enter Health Parameters
 
