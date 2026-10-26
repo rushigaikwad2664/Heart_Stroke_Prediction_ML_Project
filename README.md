@@ -24,7 +24,6 @@ After clicking the **Predict** button, the application processes the entered dat
 
 ![Heart Disease Prediction Result](input-form.png.png)
 
-> **How to add your screenshots:** Create a folder named `screenshots` in your GitHub repository, upload your actual Streamlit UI screenshots, and use the same filenames shown above. Replace these example image paths if your filenames are different.
 
 ## 🚀 Features
 
